@@ -1,0 +1,6 @@
+name: PrivateChatNotify
+version: ${project.version}
+main: si.f5.hatosaba.privatechatnotify.bukkit.PrivateChatNotify
+api-version: 1.16
+softdepend:
+  - LunaChat
